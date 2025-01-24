@@ -7,7 +7,7 @@
   - 
 - Links to Pair programming: 
   - https://github.com/PhongLe7de/sw-1-fe-pp1-part1.git
-  - 
+  - https://github.com/PhongLe7de/sw-1-fe-pp1-part2.git
 
 ----
 ## Peer assessment

@@ -6,7 +6,7 @@
   - 
   - 
 - Links to Pair programming: 
-  - 
+  - https://github.com/PhongLe7de/sw-1-fe-pp1-part1.git
   - 
 
 ----
@@ -15,6 +15,11 @@
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 
 - Group Member's Name
+  - Phong Le: 5
+  - Leevi: 5
+  - Tino: 5
+  - Casper: 5
+
 Rate on a Scale of 1-5
 Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
 

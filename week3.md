@@ -8,6 +8,7 @@
 - Links to Pair programming: 
   - https://github.com/PhongLe7de/sw-1-be-pp1-part1
   - https://github.com/PhongLe7de/sw-1-be-pp1-part2
+  - https://github.com/PhongLe7de/week3-fe-pair-programming
 
 ----
 ## Peer assessment

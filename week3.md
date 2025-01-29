@@ -3,11 +3,11 @@
 ----
 ## Links
 - Link(s) to Group activities: 
-  - 
+  - https://github.com/PhongLe7de/sw-1-be-week3-wed-active-part1
   - 
 - Links to Pair programming: 
-  - 
-  - 
+  - https://github.com/PhongLe7de/sw-1-be-pp1-part1
+  - https://github.com/PhongLe7de/sw-1-be-pp1-part2
 
 ----
 ## Peer assessment

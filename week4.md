@@ -4,7 +4,7 @@
 ## Links
 - Link(s) to Group activities: 
   - https://github.com/PhongLe7de/sw1-week4-be-activity1
-  - 
+  - https://github.com/PhongLe7de/sw1-week4-be-activity2
 - Links to Pair programming: 
   - https://github.com/musas888888/week4-be-pp
   - 

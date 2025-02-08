@@ -7,53 +7,61 @@
   - https://github.com/PhongLe7de/sw1-week4-be-activity2
 - Links to Pair programming: 
   - https://github.com/musas888888/week4-be-pp
-  - 
-
+  - https://github.com/PhongLe7de/sw-1-week4-fe-pp.git
+- Links to Coding Marathon:
+  - https://github.com/Timppav/coding-marathon-1
 ----
 ## Peer assessment
 
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 
 - Group Member's Name
-Rate on a Scale of 1-5
-Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
+  - Phong Le: 5
+  - Leevi: 5
+  - Tino: 5
+  - Casper: 5
 
 ----
 
 ## Reflection
+ ### Week 4:
+  - Front End:
+    - Learned and practiced React Hook useState, combined with the map operator to render the app.
+    - Get familier about React Router
+  - Back end:
+    - Learned about authorization middleware and how to use it with Node.js.
+    - Started to gain knowledge about Mongoose Database, including connection, schema, and how to use CRUD operations to implement data from the database.
+    - Learned about Promises in JavaScript, including async/await.
+    - Implemented environment variables -env in the project.
+  - Coding marathon
+
 
 Please use utilize this template to write your reflections.
 
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+- I haven't faced any challenges until this week. The only issue was an unexpected situation that prevented me from attending class on Wednesday.
 
 ### What Went Well and Lessons Learned:
 
-[Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
+  - Key Learning:
+    - Gained a deep understanding of the React Hook useState and how to set states effectively
+    - Deeply understanding how middleware work.
+    - Began familiarizing myself with a new database—Mongoose DB. 
 
-- Key Learning:
-
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
-
-- Online Resources:
-
-[List and briefly describe online resources you found useful during the week, whether they were tutorials, articles, forums, or videos.]
+  - Online Resources:
+    - The Todo List source code is useful.
 
 ### Coping Strategies:
+  - Academic Progress:
+    - Successfully completed all the activities for this week.
 
-
-- Academic Progress:
-
-[Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
-
-- Soft Skills Development:
-
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+  - Soft Skills Development:
+    - Improved my teamwork skills during the coding marathon.
 
 ### Project Management:
 
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
+  - We are currently implementing the code for both the backend and frontend of the project.
 
 ### Final Thoughts:
 
@@ -61,7 +69,7 @@ Looking back on this week's experiences, I'm proud of my efforts in the [Web Cou
 
 ### Next Steps:
 
-[Outline your goals and intentions for the upcoming week, including specific areas you want to focus on.]
+  - Begin preparing for the Sprint 2 presentation.
 
 
 <!-- Links -->

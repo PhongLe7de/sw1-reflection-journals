@@ -7,7 +7,7 @@
   - 
 - Links to Pair programming: 
   - https://github.com/aRedBoss/Week5-be-pp
-  - 
+  - https://github.com/aRedBoss/week-5_fe_pp
 
 ----
 ## Peer assessment

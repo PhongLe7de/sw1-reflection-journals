@@ -3,57 +3,57 @@
 ----
 ## Links
 - Link(s) to Group activities: 
+  - https://github.com/PhongLe7de/sw1-week5-fe-activity-part-1
   - https://github.com/PhongLe7de/sw-1-week5-fe-activity-part-2
   - 
 - Links to Pair programming: 
   - https://github.com/aRedBoss/Week5-be-pp
   - https://github.com/aRedBoss/week-5_fe_pp
-
+- Link to Sprint 2 presentation self assessment:
+  - https://github.com/CasperK1/group-finder/blob/main/documentation/s2-code-self-assessment-phong.md
 ----
 ## Peer assessment
 
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 
 - Group Member's Name
-Rate on a Scale of 1-5
-Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
+  - Phong Le: 5
+  - Leevi: 5
+  - Tino: 5
+  - Casper: 5
 
 ----
 
 ## Reflection
-
-Please use utilize this template to write your reflections.
+ ### Week 5:
+  - Front End:
+    - Learned using fetch method to communicate with backend
+    - Learned React Hook UseEffect to listen the state changed
+  - Back end:
+    - Learned about CORS
+    - Understanding about Json Web Token (JWT)
+    - Understading about bcrypt and salt password
+  - Sprint 2 presentation
 
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+I haven't faced any challenges until this week. The only issue was an unexpected situation that prevented me from attending class on Wednesday.
 
 ### What Went Well and Lessons Learned:
 
-[Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
-
-- Key Learning:
-
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
-
-- Online Resources:
-
-[List and briefly describe online resources you found useful during the week, whether they were tutorials, articles, forums, or videos.]
+  - Key Learning:
+    - Studied more about the fetch method libary, such as Axios
+    - Deeply understanding how JWT work, and how to protect password
 
 ### Coping Strategies:
+ - Academic Progress:
+    - Successfully completed all the activities for this week.
 
-
-- Academic Progress:
-
-[Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
-
-- Soft Skills Development:
-
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+  - Soft Skills Development:
+    - Improved the presentation skill after Sprint 2
 
 ### Project Management:
-
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
+  - Enhance the feature to connect with backend to get API for frontend
 
 ### Final Thoughts:
 

@@ -4,10 +4,13 @@
 ## Links
 - Link(s) to Group activities: 
   - https://github.com/PhongLe7de/sw-1-week6-mon-be-groupActivitive1
+  - https://github.com/PhongLe7de/sw1-week6-bb-activity1
+  - https://github.com/PhongLe7de/sw-1-week6-fe-pp1
   - 
 - Links to Pair programming: 
   - https://github.com/aRedBoss/Week6-bepp
-  - 
+- Coding Marathon 2:
+  - https://github.com/Timppav/coding-marathon-2
 
 ----
 ## Peer assessment
@@ -15,45 +18,43 @@
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 
 - Group Member's Name
-Rate on a Scale of 1-5
-Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
-
+  - Phong Le: 5
+  - Leevi: 3 
+  - Tino: 5
+  - Casper: 5
 ----
 
 ## Reflection
-
-Please use utilize this template to write your reflections.
+ ### Week 6:
+  - Front End:
+    - Learned about JWT authentication and how to store and use tokens with localStorage.
+    - Learned how to create custom hooks in React.
+    - Learned how to write app tests with Jest.
+  - Back end:
+    - Learned about password hashing and salting for security.
+    - Learned how to use access tokens to verify users before implementing methods.
+  - Coding marathon 2
 
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
-
+I faced some challenges this week because my colleague, who was working with me on the front end for our group project, fell sick. So I have to take on all of the work myself
 ### What Went Well and Lessons Learned:
-
-[Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
+I feel my teamwork and communication skills are improved a lot after the coding marathon 2. Our team hjave a good conversation and we solved the problems together.
 
 - Key Learning:
 
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
-
 - Online Resources:
-
-[List and briefly describe online resources you found useful during the week, whether they were tutorials, articles, forums, or videos.]
+  - React Crash Course 2024 is very useful
 
 ### Coping Strategies:
-
-
 - Academic Progress:
-
-[Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
+ - Successfully completed all the activities for this week.
 
 - Soft Skills Development:
-
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+  - Communication skills
 
 ### Project Management:
-
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
+- Now I'm developing the project chat box feature
 
 ### Final Thoughts:
 

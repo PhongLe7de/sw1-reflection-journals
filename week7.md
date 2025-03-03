@@ -7,7 +7,7 @@
   - 
 - Links to Pair programming: 
   - https://github.com/PhongLe7de/sw1-week7-fepp
-  - 
+  - https://github.com/PhongLe7de/sw1-week7-bepp
 
 ----
 ## Peer assessment

@@ -6,7 +6,7 @@
   - 
   - 
 - Links to Pair programming: 
-  - 
+  - https://github.com/PhongLe7de/sw1-week7-fepp
   - 
 
 ----

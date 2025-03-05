@@ -8,6 +8,10 @@
 - Links to Pair programming: 
   - https://github.com/PhongLe7de/sw1-week7-fepp
   - https://github.com/PhongLe7de/sw1-week7-bepp
+  - https://github.com/PhongLe7de/sw1-week7-sw1-exam-recap1-reacap2
+
+- Backend Deploy link:
+  - https://sw1-week7-sw1-exam-recap1.onrender.com
 
 ----
 ## Peer assessment

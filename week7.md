@@ -12,25 +12,26 @@
 
 - Backend Deploy link:
   - https://sw1-week7-sw1-exam-recap1.onrender.com
+- Coding marathon:
+  - https://github.com/PhongLe7de/Coding-Marathon-3
 
 ----
 ## Peer assessment
 
-Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
-
 - Group Member's Name
-Rate on a Scale of 1-5
-Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
-
+  - Phong Le: 5
+  - Leevi: 4
+  - Tino: 5
+  - Casper: 5
 ----
 
 ## Reflection
 
-Please use utilize this template to write your reflections.
+- This week, I developed the application like a full stack application. Additionally I 
 
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+  I haven't faced any challenges  this week
 
 ### What Went Well and Lessons Learned:
 
@@ -38,27 +39,25 @@ Please use utilize this template to write your reflections.
 
 - Key Learning:
 
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
+  I has learned how to implement full stack application,
+  Learned how to deploy backend, frontend, and database 
 
 - Online Resources:
-
-[List and briefly describe online resources you found useful during the week, whether they were tutorials, articles, forums, or videos.]
 
 ### Coping Strategies:
 
 
-- Academic Progress:
-
-[Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
+ - Academic Progress:
+    - Successfully completed all the pair programming and coding marathon for this week.
 
 - Soft Skills Development:
+    - My communication and team work skill is very good at the moment
 
 [Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
 
 ### Project Management:
 
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
-
+  - Our project is very good at the moment,  we're going to finish project soon
 ### Final Thoughts:
 
 Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
